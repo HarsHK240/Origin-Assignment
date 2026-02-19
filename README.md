@@ -69,7 +69,7 @@ ros2 launch turtlebot3_gazebo empty_world.launch.py
 ```bash
 cd ~/origin_ws
 source install/setup.bash
-ros2 run assignment tracker_node
+ros2 run assignment trajectory_node
 
 ```
 
